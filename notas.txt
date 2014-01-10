@@ -1,0 +1,26 @@
+Object-Oriented-Css
+===================
+Manejar todos los elementos de diseño como objetos y las clases de 
+css como propiedades de un objeto
+
+Recomendacion: Dejar los ids, para lo que se manipulará por js
+
+Instalar Stylus
+===============
+Para hacer nuestros archivos sólo con identación
+
+	sudo npm install stylus -g
+	stylus -V #version
+
+Compilar: Stylus
+================
+	stylus name.styl
+
+	stylus name.styl -c # Para comprimir el css generado
+	
+	stylus name.styl -c -w # Compilara automaticamente, mientras
+ 				 se hagan modificaiones en el archivo .styl
+
+	... otras cosas 
+	compilar y hacer watch sobre VARIOS ARCHIVOS
+	compilar sobre un sólo archivo final
