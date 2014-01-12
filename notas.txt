@@ -5,6 +5,12 @@ css como propiedades de un objeto
 
 Recomendacion: Dejar los ids, para lo que se manipulará por js
 
+Stylus
+======
+-Con stylus podemos guardar variables para los colores
+-Incluso probe guardar variables de pixeles
+-Y sumar estas variables en otro atributo 
+
 Instalar Stylus
 ===============
 Para hacer nuestros archivos sólo con identación
@@ -24,3 +30,7 @@ Compilar: Stylus
 	... otras cosas 
 	compilar y hacer watch sobre VARIOS ARCHIVOS
 	compilar sobre un sólo archivo final
+
+Icons Font
+==========
+http://icomoon.io/app/#/select
