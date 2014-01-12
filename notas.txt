@@ -1,3 +1,9 @@
+CSS
+===
+
+odd --- impar
+even -- par
+
 Object-Oriented-Css
 ===================
 Manejar todos los elementos de diseño como objetos y las clases de 
@@ -34,3 +40,23 @@ Compilar: Stylus
 Icons Font
 ==========
 http://icomoon.io/app/#/select
+
+Media Querys
+============
+Son una instruccion de css, que permite decirle
+a css, cuando usted llege a cierta condición( por 
+ejemplo al cambiar el ancho), hacer tal o cual 
+cambio.
+
+
+Podemos hacer cosas como:
+
+Modificar una vista para que se imprima de 
+distinta forma
+	- Por ejemplo una factura
+Responsive Desing ( con media querys )
+=================
+Por lo general colocarlo al final del archivo 
+css.
+
+
